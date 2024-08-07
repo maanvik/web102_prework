@@ -2,9 +2,9 @@
 
 Submitted by: **Maanvik Thodupunuri**
 
-**Sea Monster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monsters** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **13** hours spent in total
+Time spent: **9** hours spent in total
 
 ## Required Features
 
@@ -25,10 +25,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICEcap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -38,9 +38,11 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+Initially, I encountered some challenges in understanding the program's logic and flow, particularly regarding how HTML and DOM manipulation worked. However, once I became familiar with these concepts, I felt comfortable completing all the tasks and even added a couple of additional features, such as hand cursors for buttons and hover effects for the game cards.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Maanvik Thodupunuri
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
